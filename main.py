@@ -1,3 +1,6 @@
+#By:Salvador Amaya
+#ID: 010348952
+
 from load_trucks import *
 from options import *
 
